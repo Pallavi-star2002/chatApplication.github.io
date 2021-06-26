@@ -1,0 +1,5 @@
+---
+applications:
+- name: Cloud-project-master
+  memory: 256M
+  domain: eu-gb.mybluemix.net
